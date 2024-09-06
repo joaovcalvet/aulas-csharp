@@ -1,0 +1,15 @@
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Aula - 14\bin\Debug\net7.0\Aula - 14.exe
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Aula - 14\bin\Debug\net7.0\Aula - 14.deps.json
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Aula - 14\bin\Debug\net7.0\Aula - 14.runtimeconfig.json
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Aula - 14\bin\Debug\net7.0\Aula - 14.dll
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Aula - 14\bin\Debug\net7.0\Aula - 14.pdb
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Aula - 14\obj\Debug\net7.0\Aula - 14.csproj.AssemblyReference.cache
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Aula - 14\obj\Debug\net7.0\Aula - 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Aula - 14\obj\Debug\net7.0\Aula - 14.AssemblyInfoInputs.cache
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Aula - 14\obj\Debug\net7.0\Aula - 14.AssemblyInfo.cs
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Aula - 14\obj\Debug\net7.0\Aula - 14.csproj.CoreCompileInputs.cache
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Aula - 14\obj\Debug\net7.0\Aula - 14.dll
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Aula - 14\obj\Debug\net7.0\refint\Aula - 14.dll
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Aula - 14\obj\Debug\net7.0\Aula - 14.pdb
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Aula - 14\obj\Debug\net7.0\Aula - 14.genruntimeconfig.cache
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Aula - 14\obj\Debug\net7.0\ref\Aula - 14.dll
