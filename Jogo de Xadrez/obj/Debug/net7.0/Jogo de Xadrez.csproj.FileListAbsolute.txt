@@ -1,0 +1,15 @@
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Jogo de Xadrez\bin\Debug\net7.0\Jogo de Xadrez.exe
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Jogo de Xadrez\bin\Debug\net7.0\Jogo de Xadrez.deps.json
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Jogo de Xadrez\bin\Debug\net7.0\Jogo de Xadrez.runtimeconfig.json
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Jogo de Xadrez\bin\Debug\net7.0\Jogo de Xadrez.dll
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Jogo de Xadrez\bin\Debug\net7.0\Jogo de Xadrez.pdb
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Jogo de Xadrez\obj\Debug\net7.0\Jogo de Xadrez.csproj.AssemblyReference.cache
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Jogo de Xadrez\obj\Debug\net7.0\Jogo de Xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Jogo de Xadrez\obj\Debug\net7.0\Jogo de Xadrez.AssemblyInfoInputs.cache
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Jogo de Xadrez\obj\Debug\net7.0\Jogo de Xadrez.AssemblyInfo.cs
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Jogo de Xadrez\obj\Debug\net7.0\Jogo de Xadrez.csproj.CoreCompileInputs.cache
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Jogo de Xadrez\obj\Debug\net7.0\Jogo de Xadrez.dll
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Jogo de Xadrez\obj\Debug\net7.0\refint\Jogo de Xadrez.dll
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Jogo de Xadrez\obj\Debug\net7.0\Jogo de Xadrez.pdb
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Jogo de Xadrez\obj\Debug\net7.0\Jogo de Xadrez.genruntimeconfig.cache
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Jogo de Xadrez\obj\Debug\net7.0\ref\Jogo de Xadrez.dll
