@@ -1,0 +1,15 @@
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Damas\bin\Debug\net7.0\Damas.exe
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Damas\bin\Debug\net7.0\Damas.deps.json
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Damas\bin\Debug\net7.0\Damas.runtimeconfig.json
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Damas\bin\Debug\net7.0\Damas.dll
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Damas\bin\Debug\net7.0\Damas.pdb
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Damas\obj\Debug\net7.0\Damas.csproj.AssemblyReference.cache
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Damas\obj\Debug\net7.0\Damas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Damas\obj\Debug\net7.0\Damas.AssemblyInfoInputs.cache
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Damas\obj\Debug\net7.0\Damas.AssemblyInfo.cs
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Damas\obj\Debug\net7.0\Damas.csproj.CoreCompileInputs.cache
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Damas\obj\Debug\net7.0\Damas.dll
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Damas\obj\Debug\net7.0\refint\Damas.dll
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Damas\obj\Debug\net7.0\Damas.pdb
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Damas\obj\Debug\net7.0\Damas.genruntimeconfig.cache
+C:\Users\joaovictorcalvet\Documents\GitHub\João Repositorios\aulas-csharp\Damas\obj\Debug\net7.0\ref\Damas.dll
