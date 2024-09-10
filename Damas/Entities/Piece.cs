@@ -10,9 +10,4 @@ class Piece
     {
         Color = color;
     }
-
-    public override string ToString()
-    {
-        return "P";
-    }
 }

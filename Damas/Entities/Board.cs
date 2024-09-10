@@ -1,4 +1,6 @@
 namespace Damas.Entities;
+
+using Damas.Entities.Pieces;
 using Enums;
 
 class Board
@@ -37,7 +39,7 @@ class Board
                     if(line > 4)
                         clr = PieceColor.RED;
 
-                    Positions[line, column] = new Position(line, column, new Piece(clr));
+                    Positions[line, column] = new Position(line, column, new Pawn(clr));
                     jump = true;
                     
                     continue;
